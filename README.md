@@ -1,22 +1,12 @@
-# ALPR utils
-
-This is a DL model to detect & recognize Chinese license plates in unconstrained scenarios.
-
-![p1](/docs/1.png)
-![p2](/docs/2.png)
-![p3](/docs/3.png)
-![p4](/docs/4.png)
-![p5](/docs/5.png)
-
 ## Requirements
 
-* [Python3](https://www.python.org/)
-  * [MXNet](https://mxnet.apache.org/)
-  * [GluonCV](https://gluon-cv.mxnet.io/)
-  * [NumPy](https://www.numpy.org)
-  * [opencv-python](https://github.com/skvark/opencv-python)
-  * [Matplotlib](https://matplotlib.org/)
-  * [PyPNG](https://github.com/drj11/pypng)
+python 3.6
+mxnet 1.5.0
+GlounCV 0.10.5
+Numpy 1.16.6
+opencv-python 3.3.1.11
+Matplotlib 3.3.4
+PyPNG 0.0.21
 
 ## Download models
 
